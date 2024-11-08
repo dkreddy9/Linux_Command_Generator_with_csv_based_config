@@ -1,4 +1,4 @@
-#*Linux Command Generator (CSV Version)*
+#Linux Command Generator (CSV Version)
 This tool is a PHP-based Linux command generator designed to help users quickly find and construct Linux commands based on pre-configured options. It is particularly useful for those learning Linux commands or anyone needing quick references without switching between documentation.
 
 
