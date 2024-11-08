@@ -7,7 +7,7 @@ Static Command Database: Built on a CSV file that defines available commands and
 User-Friendly Search: Users can search for commands and options through a streamlined interface, with results rendered based on the CSV configuration.
 Cross-Distro Compatibility: The commands and syntax provided are compatible with popular distributions like Ubuntu, CentOS, and macOS.
 Offline Availability: No internet required—works offline once the CSV file and tool are downloaded.
-
+![Linux Command Generator](command-generator.png)
 ## Installation
 Download the repository files.
 Set Up: Place the tool on any web server capable of running PHP (e.g., Apache, Nginx).
